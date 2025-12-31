@@ -1,6 +1,6 @@
 {
   "name": "@voscarmv/aitoolcache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool call memory cache for AI chatbots ",
   "keywords": [
     "toolcall",
