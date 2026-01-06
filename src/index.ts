@@ -11,6 +11,9 @@ export const aicache = {
     },
     get: (key: string): string => {
         return cache.get(key) || '';
+    },
+    list: (): string => {
+        return JSON.stringify(cache.keys);
     }
 };
 
